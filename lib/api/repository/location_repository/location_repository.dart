@@ -1,0 +1,1 @@
+export 'repository/location_repository.dart';
